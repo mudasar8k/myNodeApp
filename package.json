@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mudasar8k/myNodeApp/issues"
   },
-  "homepage": "https://github.com/mudasar8k/myNodeApp"
+  "homepage": "https://github.com/mudasar8k/myNodeApp",
+  "devDependencies": {
+    "express": "^4.12.2"
+  }
 }
